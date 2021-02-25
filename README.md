@@ -1,5 +1,5 @@
 # s00ny0ung_studyfolio
-Hello:wave: My name is Soonyoung Kim.<br>
+👋Hello My name is Soonyoung Kim.<br>
 
 My major is **computer science📚**, and I have been studying **programming languages💻** since 2012.
 I have project experience using Python, Java, SQL languages. 
