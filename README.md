@@ -6,7 +6,7 @@ I have project experience using Python, Java, SQL languages.
 And I am very interested in **Machine learning** and **Deep learning**.
 
 ### Machine learning 알고리즘 실습
->  - [K-최접근 이웃(KNN)](K-최접근 이웃(KNN).ipynb)
+>  - [K-최접근 이웃(KNN)](https://colab.research.google.com/drive/16flJowyX0FVj3zrRRCIdekPChbDR7yo7#scrollTo=i1GEbaJpurC3)
 >  - [서포트벡터미선(SVM)]
 >  - [Decision Tree]
 >  - [나이브베이즈]
