@@ -5,6 +5,7 @@ My major is **computer science📚**, and I have been studying **programming lan
 I have project experience using Python, Java, SQL languages. 
 And I am very interested in **Machine learning** and **Deep learning**.
 
+# Studying
 ### Machine learning 알고리즘 실습
 >  - [K-최접근 이웃(KNN)](https://colab.research.google.com/drive/16flJowyX0FVj3zrRRCIdekPChbDR7yo7#scrollTo=i1GEbaJpurC3)
 >  - [서포트벡터미선(SVM)]
@@ -20,7 +21,7 @@ And I am very interested in **Machine learning** and **Deep learning**.
 
 ---
 # Projects
-### [🏋️‍♂️AI_Fit🏋️‍♀️](https://github.com/s00ny0ung/AI_Fit) 
+### 1. [🏋️‍♂️AI_Fit🏋️‍♀️](https://github.com/s00ny0ung/AI_Fit) 
 
 ### AIFit(아이핏)은 A.I Fittness 즉 인공지능을 활용한 피트니스라는 의미입니다.
 
