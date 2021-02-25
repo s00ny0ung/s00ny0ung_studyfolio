@@ -29,5 +29,5 @@ And I am very interested in **Machine learning** and **Deep learning**.
 #### AIFit(아이핏)은 A.I Fittness 즉 인공지능을 활용한 피트니스라는 의미입니다.
 
 - 로그인시, **Facial recognition 기술**을 활용하여 등록된 회원 확인
-- 운동시, **Pose Estimation 기술**을 활용하여 특정 운동의 자세를 학습하고 인공지능 트레이너 서비스 제공
+- 운동시, **Pose Estimation 기술**을 활용하여 운동 자세를 학습하고 인공지능 트레이너 서비스 제공
 
