@@ -5,8 +5,6 @@ My major is **computer science📚**, and I have been studying **programming lan
 I have project experience using Python, Java, SQL languages. 
 And I am very interested in **Machine learning** and **Deep learning**.
 
-### s00ny0ung_studyfolio for studying
-
 ### Machine learning 알고리즘 실습
 >  - [K-최접근 이웃(kNN)](4.2_knn_농구선수_포지션_예측_실습.html)
 >  - [서포트벡터미선(SVM)]
