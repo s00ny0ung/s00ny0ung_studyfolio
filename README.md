@@ -9,6 +9,7 @@ And I am very interested in **Machine learning** and **Deep learning**.
 [👩‍💻머신러닝/딥러닝을 위한 '파이썬' 기초](https://velog.io/@s00ny0ung/series/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D)<br>
 [🔢머신러닝/딥러닝을 위한 미분](https://velog.io/@s00ny0ung/series/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%AF%B8%EB%B6%84) <br>
 [🧠파이썬으로 구현한 머신러닝/딥러닝](https://velog.io/@s00ny0ung/series/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D)<br>
+[AWS 클라우드 기반의 Django 웹 애플리케이션](https://velog.io/@s00ny0ung/series/AWS-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B8%B0%EB%B0%98%EC%9D%98-Django-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98)<br>
 ### Machine learning 알고리즘 실습
 >  - [K-최접근 이웃(KNN)](https://colab.research.google.com/drive/16flJowyX0FVj3zrRRCIdekPChbDR7yo7#scrollTo=i1GEbaJpurC3)
 >  - [서포트벡터미선(SVM)]
